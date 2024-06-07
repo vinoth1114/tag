@@ -1,0 +1,6 @@
+MT.asia.rubix
+MT.PIVB.rubix
+MT.SBI.rubix
+MT.TNS.rubix
+MT.TSC.rubix
+MT.INVX.rubix
